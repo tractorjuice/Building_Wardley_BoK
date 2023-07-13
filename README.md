@@ -14,9 +14,9 @@ Building a Wardley Mapping Body of Knowledge using YouTube, Pinecone, Langchain,
 
 [Part 5: Query the Wardley Mapping PDF book using ChatGPT by adding an additional namepace to the vector database](https://github.com/tractorjuice/Building_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_5.ipynb)
 
-[Part 6: Extending the Wardley Mapping Body of Knowledge with Wardley Map blog posts]
+Part 6: Extending the Wardley Mapping Body of Knowledge with Wardley Map blog posts
 
-[Part 7: Extending the Wardley Mapping Body of Knowledge with Twitter]
+Part 7: Extending the Wardley Mapping Body of Knowledge with Twitter
 
 [Part 8: Extending the Wardley Mapping Body of Knowledge with the Research 2022 Wardley Maps from GitHub](https://github.com/tractorjuice/Building_BoK/edit/main/README.md#:~:text=Building_Wardley_Mapping_Body_of_Knowledge_Part_8)
 
