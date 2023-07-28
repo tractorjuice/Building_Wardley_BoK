@@ -18,7 +18,7 @@ Part 6: Extending the Wardley Mapping Body of Knowledge with Wardley Map blog po
 
 Part 7: Extending the Wardley Mapping Body of Knowledge with Twitter
 
-[Part 8: Extending the Wardley Mapping Body of Knowledge with the Research 2022 Wardley Maps from GitHub](https://github.com/tractorjuice/Building_BoK/edit/main/README.md#:~:text=Building_Wardley_Mapping_Body_of_Knowledge_Part_8)
+[Part 8: Extending the Wardley Mapping Body of Knowledge with the Research 2022 Wardley Maps from GitHub](https://github.com/tractorjuice/Building_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_8_GitHub_Data.ipynb)
 
 Part 9: Analysing all the Wardley Mapping Text
 
