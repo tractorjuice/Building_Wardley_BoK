@@ -22,7 +22,7 @@ Part 7: Extending the Wardley Mapping Body of Knowledge with Twitter
 
 Part 9: Analysing all the Wardley Mapping Text
 
-Part 10: How to create a tweet from Simon's medium posts
+Part 10: How to create a tweet summarising a Wardley Mapping blog post
 
 
 ## Author
