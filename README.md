@@ -20,6 +20,11 @@ Part 7: Extending the Wardley Mapping Body of Knowledge with Twitter
 
 [Part 8: Extending the Wardley Mapping Body of Knowledge with the Research 2022 Wardley Maps from GitHub](https://github.com/tractorjuice/Building_BoK/edit/main/README.md#:~:text=Building_Wardley_Mapping_Body_of_Knowledge_Part_8)
 
+Part 9: Analysing all the Wardley Mapping Text
+
+Part 10: How to create a tweet from Simon's medium posts
+
+
 ## Author
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mcraddock?style=social)](https://twitter.com/mcraddock)
