@@ -26,7 +26,7 @@ Part 10: How to create a tweet summarising a Wardley Mapping blog post
 
 Part 11: Try various different LangChian receivers to query data
 
-Part 12: Collect Google DataMesh Podcasts for GPT4 analysis
+[Part 12: Collect Google DataMesh Podcasts for GPT4 analysis](https://github.com/tractorjuice/Building_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_12_Collect_Google_Podcasts.ipynb)
 
 Part 13: Google Podcast, speach to text
 
