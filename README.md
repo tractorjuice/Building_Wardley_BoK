@@ -24,6 +24,25 @@ Part 9: Analysing all the Wardley Mapping Text
 
 Part 10: How to create a tweet summarising a Wardley Mapping blog post
 
+Part 11: try various different LangChian receivers to query data
+
+Part 12: Collect Google Podcast data
+
+Part 13: Google Podcast, speach to text
+
+Part 14: Upsert Podcast data into FAISS or Pinecone
+
+Part 15: Query Podcast data
+
+Part 16: Merge multiple vectorstores
+
+Part 17: Query data across multiple sources
+
+Part 18: TBA
+
+Part 19: TBA
+
+Part 20: Generate questions and answers for use in training / fine-tuning an LLM
 
 ## Author
 
