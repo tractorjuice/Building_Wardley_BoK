@@ -30,9 +30,9 @@ Part 11: Try various different LangChian receivers to query data
 
 [Part 13: Google Podcast, speach to text](https://github.com/tractorjuice/Building_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_13_Podcast_Speech_to_Text.ipynb)
 
-Part 14: Upsert Podcast data into FAISS or Pinecone
+[Part 14: Upsert Podcast data into FAISS or Pinecone](https://github.com/tractorjuice/Building_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_14_Upsert_Podcast_Data.ipynb)
 
-Part 15: Query Podcast data
+[Part 15: Query Podcast data](https://github.com/tractorjuice/Building_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_15_Query_Podcast_Data.ipynb)
 
 Part 16: Merge multiple vectorstores
 
