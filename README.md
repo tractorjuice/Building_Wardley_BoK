@@ -24,7 +24,7 @@ Part 9: Analysing all the Wardley Mapping Text
 
 Part 10: How to create a tweet summarising a Wardley Mapping blog post
 
-Part 11: try various different LangChian receivers to query data
+Part 11: Try various different LangChian receivers to query data
 
 Part 12: Collect Google Podcast data
 
