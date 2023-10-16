@@ -28,7 +28,7 @@ Part 11: Try various different LangChian receivers to query data
 
 [Part 12: Collect Google DataMesh Podcasts for GPT4 analysis](https://github.com/tractorjuice/Building_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_12_Collect_Google_Podcasts.ipynb)
 
-Part 13: Google Podcast, speach to text
+[Part 13: Google Podcast, speach to text](https://github.com/tractorjuice/Building_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_13_Podcast_Speech_to_Text.ipynb)
 
 Part 14: Upsert Podcast data into FAISS or Pinecone
 
