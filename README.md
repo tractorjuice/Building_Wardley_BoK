@@ -44,6 +44,8 @@ Part 19: TBA
 
 Part 20: Generate questions and answers for use in training / fine-tuning an LLM
 
+Part 21: Analysing images and adding them to the Body of Knowledge
+
 ## Author
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mcraddock?style=social)](https://twitter.com/mcraddock)
