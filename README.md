@@ -38,7 +38,7 @@ Part 16: Merge multiple vectorstores
 
 Part 17: Query data across multiple sources
 
-Part 18: TBA
+Part 18: Collecting data from Discord
 
 Part 19: TBA
 
