@@ -34,7 +34,7 @@ Part 11: Try various different LangChian receivers to query data
 
 [Part 15: Query Data Mesh Podcasts](https://github.com/tractorjuice/Building_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_15_Query_Podcast_Data.ipynb)
 
-Part 16: Extending the Wardley Mapping Body of Knowledge - Part 16: Using Pinecone Serverless for Vector Database
+Part 16: Extending the Wardley Mapping Body of Knowledge - Part 16: Using Pinecone Serverless for Vector Database(https://github.com/tractorjuice/Building_Wardley_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_16.ipynb)
 
 Part 17: Extending the Wardley Mapping Body of Knowledge — Part 17: Extracting Data from Large Documents
 
