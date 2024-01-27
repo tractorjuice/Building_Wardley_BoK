@@ -34,17 +34,17 @@ Part 11: Try various different LangChian receivers to query data
 
 [Part 15: Query Data Mesh Podcasts](https://github.com/tractorjuice/Building_BoK/blob/main/Building_Wardley_Mapping_Body_of_Knowledge_Part_15_Query_Podcast_Data.ipynb)
 
-Part 16: Merge multiple vectorstores
+Part 16: Extending the Wardley Mapping Body of Knowledge - Part 16: Using Pinecone Serverless for Vector Database
 
-Part 17: Query data across multiple sources
+Part 17: Extending the Wardley Mapping Body of Knowledge — Part 17: Extracting Data from Large Documents
 
-Part 18: Collecting data from Discord
+Part 18: TBA - With Development Team
 
-Part 19: TBA
+Part 19: TBA - With Development Team
 
-Part 20: Generate questions and answers for use in training / fine-tuning an LLM
+Part 20: TBA - With Development Team
 
-Part 21: Analysing images and adding them to the Body of Knowledge
+Part 21: TBA - With Development Team
 
 ## Author
 
