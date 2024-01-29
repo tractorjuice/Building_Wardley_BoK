@@ -1,4 +1,4 @@
-# Building a Body of Knowledge using Pinecone, Langchain and OpenAI
+# Building a Body of Knowledge using Pinecone Serverless, Langchain and OpenAI for Wardley Mapping
 
 See the following blog series on how to use and how this code works.
 
